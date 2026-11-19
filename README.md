@@ -7,12 +7,9 @@ she is me :D
 <p> somewhat smart broke not a boy or phelantrapist programmer who knows c++, java, html5, css, typescript and some ts </p>
 
 # Basic information...
-age: 20\
-pronouns: She/Her\
-Favorite color: Sakura pink\
-nationality: South African\
-Favorite anime: [TGITS](https://www.imdb.com/title/tt36517689/) , [CPER](https://www.imdb.com/title/tt12590266/?ref_=nv_sr_srsg_0_tt_7_nm_0_in_1_q_cyperpunk) , [R1/2](https://www.imdb.com/title/tt32766897/?ref_=nv_sr_srsg_0_tt_8_nm_0_in_0_q_ranma) 
-
+Age:<!--AGE-->20<!--/AGE-->
+Likes: games, anime, music, learning stupid facts that will never be used ever again 
+Dislikes
 
 # programing experience:
 <!--START_SECTION:waka-->
@@ -25,7 +22,7 @@ Favorite anime: [TGITS](https://www.imdb.com/title/tt36517689/) , [CPER](https:/
 </picture>
 
 ##  goals
-within the next 10 years i wanna have completed the following goals:
+within the next 10 years I wanna have completed the following goals:
 
  - work on a jets code using [JSF AV C++](https://www.stroustrup.com/JSF-AV-rules.pdf) Complient code.
 - work on a nuclear power plants safety code by following there [regulatory rules](https://nnr.co.za/about/acts-and-regulations/)
