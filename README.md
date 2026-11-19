@@ -15,10 +15,9 @@ Favorite anime: [TGITS](https://www.imdb.com/title/tt36517689/) , [CPER](https:/
 
 
 # programing experience:
-type script, javaScript HTML, CSS 
-python, java, c++
-react
-github
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
  <picture>
     <source media="(prefers-color-scheme: dark)" <img alt="48f08597f57fff39e981cf8ee92d53d2" srcset="https://github.com/user-attachments/assets/5e81a8aa-6b0c-411f-90d2-9315f0bf70cc" />
